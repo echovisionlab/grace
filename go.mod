@@ -1,4 +1,4 @@
-module github.com/state303/grace
+module github.com/echovisionlab/grace
 
 go 1.22.1
 
